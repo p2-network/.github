@@ -4,4 +4,4 @@ I use this organization for personal projects but with organization features (su
 
 ## Who?
 
-I'm [thepatrick](https://github.com/thepatrick).
+I'm [Sophie](https://thisisme.nz/) ([@thissophie](https://github.com/thissophie)).
